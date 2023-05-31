@@ -2,3 +2,5 @@ blog/__pycache__/*
 
 apps/user/__pycache__/*
 apps/user/migrations/__pycache__/*
+apps/blog_app/__pycache__/*
+apps/blog_app/migrations/__pycache__/*
